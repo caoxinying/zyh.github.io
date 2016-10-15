@@ -1,0 +1,23 @@
+*{
+margin-top: 0px;  
+margin-left: 0px; 
+}
+.top{
+	width: 75%;
+	height: 50px;
+	margin: 25px;
+	background-color: #ffaaff; 
+	font-size: 10px;
+	font-family: fantasy;
+}
+.hid{
+	text-align:center;
+	color: #000088;
+}
+p{
+	text-align:center;
+	line-height: 5px;
+	font-size: 20px;
+	font-weight: 20px;
+     color: #000088;
+}
